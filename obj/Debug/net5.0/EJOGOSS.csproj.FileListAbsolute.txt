@@ -1,0 +1,8 @@
+C:\Users\Henrique\source\repos\EJOGOSS\EJOGOSS\obj\Debug\net5.0\EJOGOSS.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\EJOGOSS\EJOGOSS\obj\Debug\net5.0\EJOGOSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\repos\EJOGOSS\EJOGOSS\obj\Debug\net5.0\EJOGOSS.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\EJOGOSS\EJOGOSS\obj\Debug\net5.0\EJOGOSS.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\EJOGOSS\EJOGOSS\obj\Debug\net5.0\EJOGOSS.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\EJOGOSS\EJOGOSS\obj\Debug\net5.0\EJOGOSS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Henrique\source\repos\EJOGOSS\EJOGOSS\obj\Debug\net5.0\EJOGOSS.RazorAssemblyInfo.cache
+C:\Users\Henrique\source\repos\EJOGOSS\EJOGOSS\obj\Debug\net5.0\EJOGOSS.RazorAssemblyInfo.cs
